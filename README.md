@@ -48,7 +48,11 @@ Linux | Kali Linux | Networking | Python | Bash | Nmap | Burp Suite | Metasploit
 - Learning by **breaking & fixing** stuff 😎  
 
 📫 Connect With Me
-- LinkedIn: [Raj Kumar Gupta](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/) 
+- LinkedIn: [Raj Kumar Gupta](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/)
+- Facebook: [Yash Gupta](https://www.facebook.com/share/1GRzFbSQGe/)
+- Instagram: [404_erroefound_12](https://www.instagram.com/404_errorfound_12?igsh=amI1c2h0bzJuOHAz)
+- Medium: [Raj Kumar Gupta](https://medium.com/)
+- TwitterP [Raj Kumar Gupta](https://x.com/home)
 </p>
 
 <p align="left">
