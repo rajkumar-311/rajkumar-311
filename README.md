@@ -1,51 +1,22 @@
 <p align="left">
-👋 Hi, I'm Raj Kumar Gupta
+# 💫 About Me:
+ 👋 Hi, I'm Raj Kumar Gupta<br><br>🛡️ Cybersecurity Enthusiast | Ethical Hacker | Computer Science Student<br>🌱 What I'm Learning<br><br>    Kali Linux & Linux Fundamentals<br>    Networking & Protocol Analysis<br>    Web Application Security<br>    Python & Bash for hacking scripts<br>    Bug Bounty & Penetration Testing<br><br>🔭 Currently Working On<br><br>    Capture The Flag (CTF) Challenges 🕵️‍♂️<br>    Personal cybersecurity labs 💻<br>    Vulnerability research & bug hunting 🔍<br><br>👯 Looking to Collaborate On<br><br>    Security research projects<br>    Ethical hacking & penetration testing<br>    Open-source cybersecurity tools<br><br>🤝 Looking for Guidance In<br><br>    Advanced exploitation techniques<br>    Real-world bug bounty programs<br>    Cloud & network security<br><br>💬 Ask Me About<br><br>    Linux & Networking<br>    Cybersecurity fundamentals<br>    Ethical hacking roadmap<br>    Tools like Nmap, Burp Suite, Metasploit<br><br>🛠️ Skills & Tools Linux | Kali Linux | Networking | Python | Bash | Nmap | Burp Suite | Metasploit | Wireshark | OSINT<br><br>👨‍💻 Projects & Labs<br><br>    🖥️ Cybersecurity practice labs<br>    🌐 Web app penetration testing<br>    📡 Networking mini projects<br>    🕵️‍♂️ CTF challenges<br><br>⚡ Fun Facts<br><br>    I hack systems legally to make them more secure 🔐<br>    Coffee ☕ fuels my late-night hacking sessions<br>    Learning by breaking & fixing stuff 😎<br><br>📫 Connect With Me<br><br>    LinkedIn: Raj Kumar Gupta<br>    Facebook: Yash Gupta<br>    Instagram: 404_erroefound_12<br>    Medium: Raj Kumar Gupta<br>    TwitterP Raj Kumar Gupta<br>
 
-🛡️ Cybersecurity Enthusiast | Ethical Hacker | Computer Science Student  
+
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@codexia-u6n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codexia616@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajkumar-311&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajkumar-311&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar-311&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rajkumar-311&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 What I'm Learning
-- Kali Linux & Linux Fundamentals  
-- Networking & Protocol Analysis  
-- Web Application Security  
-- Python & Bash for hacking scripts  
-- Bug Bounty & Penetration Testing  
-
-🔭 Currently Working On
-- Capture The Flag (CTF) Challenges 🕵️‍♂️  
-- Personal cybersecurity labs 💻  
-- Vulnerability research & bug hunting 🔍  
-
-👯 Looking to Collaborate On
-- Security research projects  
-- Ethical hacking & penetration testing  
-- Open-source cybersecurity tools  
-
-🤝 Looking for Guidance In
-- Advanced exploitation techniques  
-- Real-world bug bounty programs  
-- Cloud & network security  
-
-💬 Ask Me About
-- Linux & Networking  
-- Cybersecurity fundamentals  
-- Ethical hacking roadmap  
-- Tools like Nmap, Burp Suite, Metasploit  
-
-🛠️ Skills & Tools
-Linux | Kali Linux | Networking | Python | Bash | Nmap | Burp Suite | Metasploit | Wireshark | OSINT  
-
-👨‍💻 Projects & Labs
-- 🖥️ Cybersecurity practice labs  
-- 🌐 Web app penetration testing  
-- 📡 Networking mini projects  
-- 🕵️‍♂️ CTF challenges  
-
-⚡ Fun Facts
-- I hack systems **legally** to make them more secure 🔐  
-- Coffee ☕ fuels my late-night hacking sessions  
-- Learning by **breaking & fixing** stuff 😎  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 📫 Connect With Me
 - LinkedIn: [Raj Kumar Gupta](https://www.linkedin.com/in/raj-kumar-gupta-4a2312345/)
