@@ -3,7 +3,7 @@ BCA student focusing on cybersecurity and ethical hacking. I study how systems w
 
 🔗 Connect
 <p>
-<a href="https://linkedin.com/in/yourname">
+<a href="https://www.linkedin.com/in/raj-kumar-gupta-4a2312345//in/Raj-Kumar-Gupta">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://twitter.com/yourhandle">
