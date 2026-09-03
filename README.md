@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Kumar Gupta
 
-### BCA 4th Semester Student | Aspiring Cybersecurity Professional 🔐
+### BCA Student | Aspiring Cybersecurity Professional 🔐
 
 I'm a BCA student interested in **Cybersecurity, Ethical Hacking, Linux, Networking, and Web Security**.
 
