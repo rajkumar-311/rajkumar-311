@@ -1,43 +1,41 @@
-🎯 About
-BCA student focusing on cybersecurity and ethical hacking. I study how systems work — how they can be compromised, and how to secure them. Currently building practical skills through TryHackMe and HackTheBox.
+# 👋 Hi, I'm Raj Kumar Gupta
 
-🔗 Connect
-<p>
-<a href="https://www.linkedin.com/in/raj-kumar-gupta-4a2312345//in/Raj-Kumar-Gupta">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://twitter.com/yourhandle">
-<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" />
-</a>
-<a href="https://tryhackme.com/p/yourname">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-brightgreen?style=for-the-badge&logo=tryhackme" />
-</a>
-<a href="https://hackthebox.com/profile/yourid">
-<img src="https://img.shields.io/badge/HackTheBox-Profile-red?style=for-the-badge&logo=hackthebox" />
-</a>
-</p>
+### BCA 4th Semester Student | Aspiring Cybersecurity Professional 🔐
 
-🛠️ Skills
-<p>
-<img src="https://img.shields.io/badge/Linux-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
-</p>
+I'm a BCA student interested in **Cybersecurity, Ethical Hacking, Linux, Networking, and Web Security**.
 
-📊 Stats
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raj-kumar-gupta-3&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-kumar-gupta-3&theme=radical&hide_title=true&hide_border=true&layout=compact" />
-</p>
+Currently learning and improving my skills through practical labs, projects, and regular practice.
 
-📧 Contact
-<p>
-<a href="mailto:raj.kumar.gupta@outlook.com">
-<img src="https://img.shields.io/badge/Email-raj.kumar.gupta@outlook.com-0078D4?style=flat&logo=outlook" />
-</a>
-</p>
+## 🔐 Currently Learning
 
+* 🐧 Linux & Kali Linux
+* 🌐 Networking Fundamentals
+* 🐍 Python
+* 💻 Bash Scripting
+* 🔎 Nmap & Wireshark
+* 🌐 Web Security
+* 🧪 TryHackMe & Hack The Box
+
+## 🛠️ Technologies
+
+`Python` `Bash` `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Git`
+
+## 🚀 Projects
+
+### 🌱 FloraCart
+
+E-commerce web project built with PHP, MySQL, HTML, CSS and JavaScript.
+
+### 🏫 School Website
+
+Web project developed using PHP, MySQL, HTML, CSS and JavaScript.
+
+## 🎯 Goal
+
+Building strong fundamentals in cybersecurity and working toward a career in **Cybersecurity / Security Analysis**.
+
+## 📚 Learning Philosophy
+
+**Learn → Practice → Build → Document → Improve**
+
+### 🔐 Keep Learning. Keep Building. Keep Securing.
